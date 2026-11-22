@@ -1,0 +1,22 @@
+# 编译产物 / 缓存（发布包由 tools/package.ps1 生成，不进源码仓库）
+obj/
+bin/
+build/
+*.dll
+*.pdb
+*.cache
+tools/__pycache__/
+*.pyc
+
+# 本地预览与生成中间物
+_preview/
+cover/
+
+# 编辑器 / 系统
+.vs/
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store

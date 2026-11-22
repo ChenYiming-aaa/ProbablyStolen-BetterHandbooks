@@ -1,0 +1,30 @@
+To investigate the "save stuck on Loading / items disappeared" issue, I need a game log. You do NOT need to find a timestamp, reproduce the bug, or replay anything — this game saves a separate log file every time it starts, so the log from when it happened is still there.
+
+[How to find it]
+
+1. Press Win + R, paste this line, and press Enter:
+   %USERPROFILE%\AppData\LocalLow\Questing Goose Studio\Probably Stolen
+
+2. A folder opens with files like these:
+   GameLog_2026-11-19_17-50-59.txt
+   GameLog_2026-11-20_00-49-37.txt
+   ...
+   The filename IS the date and time of that game session.
+
+3. Send me all the GameLog_*.txt files from around the day it happened. If it happened on the 19th and you're reading this on the 20th, send all files from both days. If you can't tell which one — send them all, that's fine. I'll find the right one by timestamp.
+
+[If convenient, these too]
+
+Player.log and Player-prev.log in the same folder (the last two sessions' full logs). These get overwritten, so they may no longer contain your incident — but if they do, they help more. No worries if they don't; the GameLog files are enough.
+
+[Don't worry about]
+
+- No screenshots, no cropping, no copying text out of the files
+- No need to find "the time it happened" — filenames have timestamps, I'll search
+- No need to reproduce it again (helpful if easy, but not required)
+- Logs may contain your drive paths and GPU model — that's normal. If you'd rather not share those, sending only a GameLog file is fine.
+
+For Steam Deck / Linux, the path is:
+~/.local/share/Steam/steamapps/compatdata/4348910/pfx/drive_c/users/steamuser/AppData/LocalLow/Questing Goose Studio/Probably Stolen/
+
+Thanks — with the log I can see exactly where it gets stuck.

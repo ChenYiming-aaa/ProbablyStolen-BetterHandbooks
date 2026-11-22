@@ -1,0 +1,78 @@
+key,value
+ins_name,Inspector's Handbook
+ins_desc,Holds every inspection and appraisal guide and tool you own. Very handy!
+ins_d1,Heard you joined the appraisers' guild.
+ins_d2,Listen, I got you something.
+ins_d3,<i>He pulls a binder from under the counter and slides it over.</i>
+ins_d4,Every inspection and appraisal guide goes in there.
+ins_d5,Don't leave them loose on the counter. You'll throw them out yourself one day.
+ins_d6,Keep your eyes sharp, rookie.
+lot_name,Lottery Handbook
+lot_desc,Holds every unscratched and scratched lottery ticket you own. Very handy!
+lot_d1,You've got a pile of unscratched tickets under that counter, don't you.
+lot_d2,I counted. Stuffed in one drawer, like waste paper.
+lot_d3,<i>He slides a red-covered booklet across the counter.</i>
+lot_d4,Lottery handbook. Unscratched on one side, scratched on the other.
+lot_d5,Drawing's on Saturday. Flip through it, stop digging in drawers.
+lot_d6,Win big, buy me a drink.
+prod_name,Production Handbook
+prod_desc,Holds every production manual you own. Very handy!
+prod_d1,Getting a lot of recipe books, aren't you.
+prod_d2,Water, hydroponics, chemistry, ingots, wine - spread all over the counter.
+prod_d3,<i>He pulls a thicker binder from his jacket.</i>
+prod_d4,Production handbook. Keep it apart from the appraisal one.
+prod_d5,One tells you how to check goods, one tells you how to make them. Don't mix.
+prod_d6,Steady hands, rookie.
+phn_name,Phonebook
+phn_desc,Holds every business card you've picked up. Very handy!
+phn_d1,A stack of cards, and you can't find a single one when you need it.
+phn_d2,Brewing, mining, pharma, chemicals - all sitting in your drawer.
+phn_d3,<i>He taps the counter and sets down a slim booklet.</i>
+phn_d4,Phonebook. Whoever you want, it's on a page.
+phn_d5,Don't dig through drawers. Use this.
+phn_d6,When you call them, don't mention me.
+cfg_section,Binder size
+cfg_cols,Width (cells)
+cfg_rows,Height (cells)
+cfg_tip,Takes effect immediately. A binder will not shrink while something inside would no longer fit.
+rcp_name,Receipt Book
+rcp_desc,Keeps every receipt the Security Department hands you. Very handy!
+rcp_g_d1,{0} receipts and not one bad call. Rare in this line.
+rcp_g_d2,{2} names off the wanted list. The department remembers every one.
+rcp_g_d3,<i>He looks at you with something close to approval and pulls out a binder.</i>
+rcp_g_d4,This is the Receipt Book. Every receipt goes in it from now on.
+rcp_g_d5,This is what our partnership looks like.
+rcp_g_d2_zero,You haven't touched the wanted list yet. You will.
+rcp_m_d1,{0} receipts. The department keeps every one on file.
+rcp_m_d2,{2} names off the wanted list. The rest are still running.
+rcp_m_d3,<i>He slides the stamped slips over and sets a binder down beside them.</i>
+rcp_m_d4,This is the Receipt Book. Every receipt goes in it.
+rcp_m_d5,Keep it steady and this book might earn its keep.
+rcp_m_d2_zero,You haven't touched the wanted list yet. Hold on to this.
+rcp_b_d1,{0} receipts, {1} bad calls.
+rcp_b_d2,A report is not a coin toss. Every wrong one costs us a trip.
+rcp_b_d3,<i>He slaps the slips on the counter and drops a binder on top.</i>
+rcp_b_d4,Receipt Book. Keep it. Count them yourself.
+rcp_b_d5,One more wrong call and we have a problem.
+sgn_name,Sign Crate
+sgn_desc,Keeps your neon signs in one place. Cheap and sturdy. Dr. Jackson's work is bound to be of high quality.
+omni_name,Omni Handbook
+omni_desc,Holds manuals and guidebooks from elsewhere. Very handy!
+omni_d1,Those manuals in your shop are stacked higher than your ledger.
+omni_d2,One book for brewing. One for tobacco. One for guns and PCs.
+omni_d3,<i>He sets down a stack of binders with 'Omni' on the top one.</i>
+omni_d4,Other people's manuals belong in your hands too.
+omni_d5,If it opens and fits it won't get lost.
+omni_d6,The other binders keep their own. This one keeps the rest.
+cfg_omni_section,Omni Handbook
+cfg_want_omni,I want the Omni Handbook (place at counter on open)
+cfg_want_omni_tip,When checked, if you have no Omni Handbook when you open the shop, one is placed directly on your counter. Uncheck to stop auto-placing; existing books are kept.
+cfg_auto_file,Auto-file items dropped in the dossier
+cfg_auto_file_tip,When checked, items dropped into the dossier are sorted into matching binders. Uncheck to leave them in the dossier, so you can keep things like cards out as decoration.
+cfg_doc_section,Manuals (by source)
+cfg_doc_tip,Check to let the Omni Handbook collect this manual. Leave unchecked to keep it in the shop, collected by its own binder.
+doc_original,Vanilla game
+cfg_tab_sizes,Binder Sizes
+cfg_tab_omni,Omni Handbook
+cfg_pick_header,Which manuals to collect (checked ones go into the Omni Handbook)
+cfg_doc_hint,The manual list is generated after a save is loaded. Load a save and reopen this page.

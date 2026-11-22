@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  更好的手册 — Probably Stolen 原生 mod。
+  把游戏里散落成一堆的纸张与招牌分门别类收进六本册子和一只箱子：
+  鉴定 / 彩票 / 生产 / 电话簿 / 回执 / 万能 + 招牌箱。
+  册子由一个对上号的人物在合适时机送上柜台，招牌箱在博士店里的柜台上卖 1 块；
+  不改数值、不动原版物品定义。
+
+  发布注意：
+    - <Capabilities/> 必须与实际扫描结果一致。本 mod 只调 Unity 与游戏自身 API，
+      加载器扫描结果为 caps=none，所以这里留空。多写会让玩家看到并不存在的权限说明。
+    - <Assemblies> 只列自己的 DLL。未列出的 DLL 会被加载器当成可疑文件上报。
+    - 不打包 0Harmony.dll：游戏本体自带（Data/Managed/0Harmony.dll）。
+-->
+<Mod>
+  <ID>better.handbooks</ID>
+  <Name>更好的手册 / Better Handbooks</Name>
+  <Author>cwqjk</Author>
+  <ModVersion>1.7.6</ModVersion>
+  <Description>柜台上的纸越堆越多，游戏却没给你能分类收它们的东西。本 mod 补七件收纳工具：鉴定手册、彩票手册、生产手册、电话簿、回执手册、招牌箱、万能手册。前四本由对得上号的人物上门送来，回执手册由治安官送来；招牌箱是只装霓虹招牌的铁皮箱，在博士柜台上卖 1 块，买过一次就永久下架。其他模组带来的说明书按内容各归各位：配方/种植类进生产手册，鉴定类进鉴定手册，工具书进可开关的万能手册——万能手册在设置里能整体开关，也能按大类勾选收哪些。全部走原版文档容器，能正常收纳、双击打开，不改任何数值；容量可在模组设置里调（拖滑块或直接填数字，2~16 格）。 The counter keeps filling with paper and the game gives you nowhere to file it. Seven containers: inspection, lottery, production and phonebook binders, a receipt book from the Security Department, a sign crate Dr. Jackson sells for 1 credit and never restocks, and an omni handbook. Manuals from other mods are filed by content: recipes and growing guides into the Production Binder, appraisal guides into the Inspection Binder, reference books into the Omni Handbook. The Omni Handbook can be switched off or set to take only chosen categories in the mod settings. All use the vanilla document container, so they file and open like the originals. Binder sizes are adjustable in the settings.</Description>
+  <GameVersions>
+    <Version>0.46D</Version>
+  </GameVersions>
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>BetterHandbooks.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Mod>

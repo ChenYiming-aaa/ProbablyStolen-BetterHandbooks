@@ -1,0 +1,47 @@
+[h1]Better Handbooks[/h1]
+A home for appraisal guides, lottery tickets, business cards and neon signs.
+[b]7 containers / manuals sorted automatically / dossier drop-to-file / resizable[/b]
+
+Appraisal guides, uncashed tickets, business cards with no owner, and neon signs with nowhere to go — the game hands them to you one sheet at a time and gives you nowhere to file them.
+This mod adds [b]seven containers[/b] so every sheet has a home. They are all [b]empty containers[/b]: what goes inside still has to be unlocked, bought or collected by you.
+
+[h2]Seven containers, seven jobs[/h2]
+[list]
+[*][b]Inspection Handbook[/b] (10x10, resizable) — appraisal guides, colour chart, label checker, magnifier, committee certificates. Brought by the mentor once appraisal service is open.
+[*][b]Lottery Handbook[/b] (6x6, resizable) — all kinds of lottery tickets and ticket information sheets. The lottery representative drops by.
+[*][b]Production Handbook[/b] (10x10, resizable) — the five vanilla recipe books, plus production manuals from other mods (brewing, tobacco, PC expansion). Brought by the mentor.
+[*][b]Phonebook[/b] (6x6, resizable) — the six vanilla business cards and cards from other mods. A supplier pays a visit.
+[*][b]Receipt Book[/b] (6x6, resizable) — every receipt the Security Department hands you. A security officer brings it in person.
+[*][b]Sign Crate[/b] (10x8, resizable) — ten neon signs. Buy it at Dr. Jackson's shop in the evening for [b]1 credit[/b]; once bought, it is delisted for good.
+[*][b]Omni Handbook[/b] (10x10, resizable) — [b]you pick what it holds[/b]: page 2 of the settings lists every manual by source mod, none selected by default. Tick "I want the Omni Handbook" and one is placed on your counter the next time you open.
+[/list]
+
+[h2]Other mods' manuals, sorted by content[/h2]
+When you install other mods, their manuals are filed automatically:
+[list]
+[*]Production recipes (brewing, tobacco, PC expansion) -> Production Handbook
+[*]Appraisal guides (authenticity manuals) -> Inspection Handbook
+[*]Reference books (gunsmith manuals, weapon catalogues) -> left in the shop, no dedicated binder yet
+[/list]
+Want a manual in the Omni Handbook too? Just tick it in the settings — [b]dedicated binders still collect it as normal[/b]. Quest items such as contracts and certificates never appear in the list. Install a new mod and the list updates the next time you play.
+
+[h2]Drop into the dossier, filed instantly[/h2]
+Put paper into the game's own [b]dossier[/b] and this mod files it immediately: [b]dedicated binder first -> Omni Handbook -> left in the dossier[/b]. Only binders you already own take part; if it cannot be filed it stays where it is, nothing is lost. Bulk drops do not need free space in the dossier either.
+
+[h2]How to use[/h2]
+[list]
+[*][b]Enable & delivery[/b]: subscribe and tick this mod in the main menu's Mods list to activate it. The mentor brings the Inspection and Production Handbooks, the lottery representative brings the Lottery Handbook, a supplier brings the Phonebook, and a security officer brings the Receipt Book — visitors only come by when you [b]sleep[/b] to start a new day.
+[*][b]Receive & open[/b]: once delivered, binders sit on your [b]counter[/b]. Double-click to open, exactly like the vanilla document containers. What they can hold still depends on the paper you unlock, buy and collect yourself.
+[*][b]One visitor a day[/b]: skip them and they come back the next day until you accept. The Sign Crate is the one exception — buy it yourself at Dr. Jackson's shop in the evening for 1 credit.
+[*][b]They change when filled[/b]: once a binder has something inside, its top changes to show sheets sticking out, and reverts when emptied — the same detail as the vanilla mentor manual.
+[*][b]Settings has two pages[/b]: select this mod in the Mods list -> "Settings". Page 1 resizes each binder (same row, 2-16 slots; drag the slider or type a number, applies instantly). Page 2 is the Omni Handbook — tick "I want the Omni Handbook" and one is placed on your counter the next time you open, with every manual listed by source mod for you to tick individually (none selected by default).
+[/list]
+
+[h2]Safety and compatibility[/h2]
+[list]
+[*]No stat changes, no new drops — only one settings file in the game's mod config folder.
+[*]Uninstalling leaves any binders you own as normal vanilla containers; their contents are never lost.
+[*]Shrinking below what fits keeps the old size instead of pushing items out.
+[/list]
+
+Questions or suggestions? Leave a comment on the workshop page.

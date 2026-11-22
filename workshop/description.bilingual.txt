@@ -1,0 +1,51 @@
+[h1]更好的手册 / Better Handbooks[/h1]
+[b]7 件收纳容器 / 手册自动归类 / 档案箱放入即整理 / 尺寸可调[/b]
+
+[h2]七件容器[/h2]
+[list]
+[*]鉴定手册 — 鉴定指南、色卡、证书。导师在鉴定服务开放后送来。
+[*]彩票手册 — 各类彩票与信息纸。彩票代表上门。
+[*]生产手册 — 原版配方书及酿酒/香烟/装机手册。导师送来。
+[*]电话簿 — 原版及别家 mod 的名片。供应商上门。
+[*]回执手册 — 治安部回执单。治安官送来。
+[*]招牌箱 — 十种霓虹招牌。晚上博士店里 1 块买，买过下架。
+[*]万能手册 — 收什么由你勾选。设置里勾「我要万能手册」，下次开门放柜台。
+[/list]
+容器都是[b]空的[/b]：装什么仍需你自己解锁、购买、收集。人物只在你[b]睡一觉[/b]开启新一天时上门，一天最多一位，当天不接待隔天再来。
+
+[h2]自动归类[/h2]
+别家 mod 的手册按内容归位：生产类进生产手册，鉴定类进鉴定手册，工具书留在店里。想让它们也进万能手册？设置里勾选即可，[b]不影响专属册子[/b]。合同、证书等任务物不参与。
+把纸放进[b]档案箱[/b]会立刻按 [b]专属册子 → 万能手册 → 留档案箱[/b] 整理，只收你已有的册子，塞不进就原样留着，批量放入不需档案箱空位。
+
+[h2]使用[/h2]
+册子送到后放在[b]柜台[/b]，双击打开，和原版文档容器一样，装满/清空会换图。
+模组列表选中本 mod → 设置：第一页调各册宽高（2~16 格，立即生效）；第二页管万能手册与逐本勾选。装了新 mod，下次进游戏清单自动更新。
+
+[h2]安全[/h2]
+不改数值、不新增掉落；卸载后册子仍是正常原版容器，内容不丢。有问题欢迎评论反馈。
+
+[h1]Better Handbooks (EN)[/h1]
+[b]7 containers / manuals auto-sorted / dossier drop-to-file / resizable[/b]
+
+[h2]Seven containers[/h2]
+[list]
+[*]Inspection Handbook — appraisal guides, colour chart, certificates. Brought by the mentor once appraisal is open.
+[*]Lottery Handbook — all lottery tickets and info sheets. The lottery representative drops by.
+[*]Production Handbook — vanilla recipes plus brewing/tobacco/PC manuals. Brought by the mentor.
+[*]Phonebook — vanilla and modded business cards. A supplier visits.
+[*]Receipt Book — Security Department receipts. A security officer brings it.
+[*]Sign Crate — ten neon signs. Buy at Dr. Jackson's for [b]1 credit[/b] in the evening; delisted after purchase.
+[*]Omni Handbook — you pick what it holds. Tick "I want the Omni Handbook" in settings; one appears on your counter next opening.
+[/list]
+All containers start [b]empty[/b]: what they hold still has to be unlocked, bought or collected. Visitors come only when you [b]sleep[/b] to start a new day, at most one per day; skip one and they return tomorrow.
+
+[h2]Auto-sorting[/h2]
+Manuals from other mods are filed by content: production guides to Production, appraisal guides to Inspection, reference books stay in the shop. Want them in the Omni too? Tick them in settings — [b]dedicated binders still collect them[/b]. Quest items such as contracts and certificates never appear.
+Dropping paper into the [b]dossier[/b] files it instantly: [b]dedicated binder -> Omni -> left in dossier[/b]. Only binders you own take part; if it cannot fit, nothing moves. Bulk drops need no free dossier space.
+
+[h2]How to use[/h2]
+Delivered binders sit on your [b]counter[/b]; double-click to open, exactly like vanilla document containers. They change appearance when filled or emptied.
+Mods list -> select this mod -> Settings: page 1 resizes binders (2-16 slots, applies instantly); page 2 manages the Omni and per-manual ticks. New mods update the list next time you play.
+
+[h2]Safety[/h2]
+No stat changes or new drops; uninstalling leaves binders as normal vanilla containers with contents intact. Questions or suggestions? Leave a comment.
